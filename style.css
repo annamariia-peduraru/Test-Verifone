@@ -1,0 +1,26 @@
+button {
+    width: 100px;
+    height: 50px;
+    background-color: #FFFF99;
+    border: 1px solid #F0E215;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 10px;
+    font-weight: bold;
+    color: #99CCFF;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px;
+}
+
+h2 {
+    background-color: #FFFF99;
+    color: #99CCFF;
+} 
+
+#output {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
